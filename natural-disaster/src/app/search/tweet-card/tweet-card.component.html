@@ -1,0 +1,21 @@
+<div class="uk-card result-card uk-card-default" *ngIf="!checkIrrelevancy(data.label.categories)">
+  <div class="uk-card-header">
+      <div class="uk-grid-small uk-flex-middle" uk-grid>
+          <div class="uk-width-auto">
+              <img class="uk-border-circle" width="40" height="40" onError="this.src='/assets/images/default-user.png'" [src]="data.properties['user.profile_image_url_https']">
+          </div>
+          <div class="uk-width-expand">
+              <h3 class="uk-card-title uk-margin-remove-bottom">{{data.properties['user.name']}}</h3>
+              <p class="uk-text-meta uk-margin-remove-top"><time datetime="2016-04-01T19:00">{{processDate(data.properties['created_at'])}}</time></p>
+          </div>
+      </div>
+  </div>
+  <div class="uk-card-body">
+      <div [ngClass]="{'low': isPriority(data.label.priority, 'low'), 'medium': isPriority(data.label.priority, 'medium'), 'high': isPriority(data.label.priority, 'high')}"
+      class="uk-card-badge priority uk-label">{{data.label.priority}}</div>
+      <p>{{processText(data.properties['text'])}}</p>
+      <span *ngFor="let label of data.label.categories" class="category uk-badge">
+        {{splitCategories(label)}}
+      </span>
+  </div>
+</div>

@@ -1,0 +1,22 @@
+/* You can add global styles to this file, and also import other style files */
+@import url('./assets/css/uikit.min.css');
+
+
+@font-face {
+  font-family: 'Bebas Neue';
+  src: url('./assets/fonts/BebasNeue-Regular.ttf');
+}
+
+
+* {
+  font-family: 'Bebas Neue' !important;
+}
+
+
+router-outlet ~ * {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+
+/* test /*

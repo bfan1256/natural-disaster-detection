@@ -1,0 +1,68 @@
+#top {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: url('/assets/images/home-background.jpg') no-repeat center;
+  background-size: cover;
+  height: 50vh;
+
+
+  #hero {
+    h1 {
+      color: white;
+      font-size: 5.0rem;
+      max-width: 1000px;
+      text-align: center;
+      letter-spacing: 2px;
+    }
+  }
+}
+
+#problems {
+  margin-top: 100px;
+}
+
+#search {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  margin-top: -35px;
+}
+
+
+.item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.subheader {
+  color: #746EFF;
+  font-size: 2.5rem;
+  letter-spacing: 1.38px;
+}
+
+.text {
+  width: 40%;
+  p {
+    font-size: 1.5rem;
+    width: 70%;
+    color: black;
+  }
+}
+
+
+#case-studies {
+  margin-bottom: 5%;
+  margin-top: 150px;
+  text-align: center;
+
+  .subheader {
+    margin-bottom: 50px;
+  }
+  .results {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+}

@@ -1,0 +1,7 @@
+
+
+<div class="uk-inline">
+  <input (keyup.enter)="sendQuery()" [(ngModel)]="query" class="search-bar uk-input" type="text" [placeholder]="placeholder">
+  <button (click)="sendQuery()" *ngIf="query.length > 0" class="uk-button search-button">Search</button>
+  <span *ngIf="query.length == 0" class="uk-form-icon uk-form-icon-flip" uk-icon="icon: search"></span>
+</div>

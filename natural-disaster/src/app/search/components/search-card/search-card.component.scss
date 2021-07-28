@@ -1,0 +1,37 @@
+.uk-card {
+  border-radius: 50px !important;
+  width: 250px;
+
+  .uk-card-media-top {
+    img {
+      border-radius: 50px 50px 0 0;
+      height: 150px;
+      object-fit: cover;
+      width: 100%;
+    }
+  }
+
+  .uk-card-title {
+    font-size: 1.1vw;
+  }
+
+  .recent-study {
+    border-radius: 35px;
+    background: rgb(255, 169, 56);
+  }
+  .most-count {
+    border-radius: 35px;
+    background: #746EFF;
+  }
+  .type {
+    border-radius: 35px;
+    background: black;
+  }
+
+
+  .learn-more {
+    border-radius: 35px;
+    background: #746EFF;
+    width: 60%;
+  }
+}

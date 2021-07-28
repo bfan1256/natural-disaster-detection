@@ -1,0 +1,203 @@
+{
+  "search_id": "6256b6d9-2eee-429a-b8ff-b268e7bf153b",
+  "url": "http://localhost:5000/events",
+  "result": [
+    [
+      {
+        "num": "TRECIS-CTIT-H-Test-024",
+        "dataset": "earthquakeCalifornia2014",
+        "title": "2014 California Earthquake",
+        "type": "earthquake",
+        "url": "https://en.wikipedia.org/wiki/2014_South_Napa_earthquake",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/2014_South_Napa_quake_-_Stones_Fallen_From_Face_of_Sam_Kee_-_1_%2815014707736%29.jpg/2560px-2014_South_Napa_quake_-_Stones_Fallen_From_Face_of_Sam_Kee_-_1_%2815014707736%29.jpg",
+        "narr": "The 2014 South Napa earthquake occurred in the North San Francisco Bay Area on August 24 at 03:20:44 Pacific Daylight Time. At 6.0 on the moment magnitude scale and with a maximum Mercalli intensity of VIII (Severe). The user is a response officer in the command and control center responsible for responding to the earthquakes as they unfold.",
+        "num_of_tweets": 127,
+        "score": "1.0"
+      },
+      {
+        "num": "TRECIS-CTIT-H-Test-008",
+        "dataset": "italyEarthquakes2012",
+        "title": "2012 Italy earthquakes",
+        "type": "earthquake",
+        "url": "https://en.wikipedia.org/wiki/2012_Northern_Italy_earthquakes",
+        "narr": "In May 2012, two major earthquakes struck Northern Italy, known as the 2012 Emilia earthquakes. The user is a response officer in the command and control center responsible for responding to the earthquakes as they unfold.",
+        "num_of_tweets": 103,
+        "score": "1.0"
+      },
+      {
+        "num": "TRECIS-CTIT-H-Test-012",
+        "dataset": "bostonBombings2013",
+        "title": "2013 Boston bombings",
+        "type": "bombing",
+        "url": "https://en.wikipedia.org/wiki/Boston_Marathon_bombing",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/90/1st_Boston_Marathon_blast_seen_from_2nd_floor_and_a_half_block_away.jpg",
+        "narr": "During the annual Boston Marathon on April 15, 2013 homemade bombs detonated near the finish line of the race. The user is a response officer in the Massachusetts command and control center who is just recieving notifications of an explosion.",
+        "num_of_tweets": 535,
+        "score": "1.0"
+      },
+      {
+        "num": "TRECIS-CTIT-H-Test-019",
+        "dataset": "nepalEarthquake2015",
+        "title": "2015 Nepal Earthquake",
+        "type": "earthquake",
+        "url": "https://en.wikipedia.org/wiki/April_2015_Nepal_earthquake",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Nepal_rel_location_map.svg/1599px-Nepal_rel_location_map.svg.png",
+        "narr": "The April 2015 Nepal earthquake (also known as the Gorkha earthquake) occurred at 11:56 Nepal Standard Time on 25 April, with a magnitude of 7.8Mw and a maximum Mercalli Intensity of VIII (Severe). Its epicenter was east of Gorkha District at Barpak, Gorkha. The user is a response officer in the command and control center responsible for responding to the earthquake as it unfolds.",
+        "num_of_tweets": 2048,
+        "score": "1.0"
+      },
+      {
+        "num": "TRECIS-CTIT-H-Test-025",
+        "dataset": "earthquakeBohol2013",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Loon_2_earthquake.JPG/2560px-Loon_2_earthquake.JPG",
+        "title": "2013 Bohol Earthquake",
+        "type": "earthquake",
+        "url": "https://en.wikipedia.org/wiki/2013_Bohol_earthquake",
+        "narr": "The 2013 Bohol earthquake occurred on October 15 at 8:12:31 PST in Bohol, an island province located in Central Visayas, Philippines. The magnitude of the earthquake was recorded at Mw 7.2, with epicenter 6 kilometres (3.7 mi) S 24° W of Sagbayan. The user is a response officer in the command and control center responsible for responding to the earthquakes as they unfold.",
+        "num_of_tweets": 583,
+        "score": "1.0"
+      },
+      {
+        "num": "TRECIS-CTIT-H-Test-014",
+        "dataset": "queenslandFloods2013",
+        "title": "2013 Queensland floods",
+        "type": "flood",
+        "url": "https://en.wikipedia.org/wiki/Cyclone_Oswald",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Oswald_Jan_21_2013_0425Z.jpg/1280px-Oswald_Jan_21_2013_0425Z.jpg",
+        "narr": "Tropical Cyclone Oswald in January 2013 passed over parts of Queensland and New South Wales, Australia causing widespread impact including severe storms, flooding, and water spouts. The user is a response officer in the central Australia command and control center responsible for the event.",
+        "num_of_tweets": 713,
+        "score": "1.0"
+      },
+      {
+        "num": "TRECIS-CTIT-H-Test-015",
+        "dataset": "typhoonYolanda2013",
+        "title": "2013 Typhoon Yolanda",
+        "type": "typhoon",
+        "url": "https://en.wikipedia.org/wiki/Typhoon_Haiyan",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Haiyan_Nov_7_2013_1345Z_%28Borderless%29.png/520px-Haiyan_Nov_7_2013_1345Z_%28Borderless%29.png",
+        "narr": "Typhoon Haiyan, known as Super Typhoon Yolanda in the Philippines, was one of the strongest tropical cyclones ever recorded. On making landfall, Haiyan devastated portions of Southeast Asia, particularly the Philippines. The user is a response officer in the Philippines command and control center responsible for impact to the country.",
+        "num_of_tweets": 564,
+        "score": "1.0"
+      },
+      {
+        "num": "TRECIS-CTIT-H-Test-020",
+        "dataset": "flSchoolShooting2018",
+        "title": "2018 FL School Shooting",
+        "type": "shooting",
+        "url": "https://en.wikipedia.org/wiki/Stoneman_Douglas_High_School_shooting",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/74/MarjoryStonemanDouglasHS_22Jun2008_%28cropped%29.jpg",
+        "narr": "On February 14, 2018, a gunman opened fire at Marjory Stoneman Douglas High School in Parkland, Florida. The user is a response officer in the Florida command and control center who is just recieving reports of the shooting.",
+        "num_of_tweets": 1118,
+        "score": "1.0"
+      },
+      {
+        "num": "TRECIS-CTIT-H-Test-021",
+        "dataset": "parisAttacks2015",
+        "title": "2015 Paris attacks",
+        "type": "bombing",
+        "url": "https://en.wikipedia.org/wiki/November_2015_Paris_attacks",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/13_November_2015_Paris_attacks_-_montage.jpg/793px-13_November_2015_Paris_attacks_-_montage.jpg",
+        "narr": "The November 2015 Paris attacks were a series of coordinated terrorist attacks that occurred on Friday, 13 November 2015 in Paris, France and the city's northern suburb, Saint-Denis. The user is a response officer in the France's command and control center who is just recieving reports of an explosion in Paris.",
+        "num_of_tweets": 2066,
+        "score": "1.0"
+      },
+      {
+        "num": "TRECIS-CTIT-H-Test-013",
+        "dataset": "manilaFloods2013",
+        "title": "2013 Manila floods",
+        "type": "flood",
+        "url": "https://en.wikipedia.org/wiki/Tropical_Storm_Trami_%282013%29",
+        "narr": "Severe Tropical Storm Trami, known in the Philippines as Tropical Storm Maring, was a tropical cyclone that brought heavy rains to Taiwan and East China during mid-August 2013. The user is a response officer responsible for Metro Manila, one of the three defined metropolitan areas of the Philippines.",
+        "num_of_tweets": 411,
+        "score": "1.0"
+      },
+      {
+        "num": "TRECIS-CTIT-H-Test-018",
+        "dataset": "typhoonHagupit2014",
+        "title": "2014 Typhoon Hagupit",
+        "type": "typhoon",
+        "url": "https://en.wikipedia.org/wiki/Typhoon_Hagupit_%282014%29",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Hagupit_2014-12-04_0438Z.jpg/1280px-Hagupit_2014-12-04_0438Z.jpg",
+        "narr": "Typhoon Hagupit, known in the Philippines as Typhoon Ruby, was the second most intense tropical cyclone in 2014. Hagupit particularly impacted the Philippines in early December while gradually weakening. The user is a response officer in the Philippines command and control center responsible for impact to the country.",
+        "num_of_tweets": 1470,
+        "score": "1.0"
+      },
+      {
+        "num": "TRECIS-CTIT-H-Test-022",
+        "imageUrl": "https://colombiareports.com/wp-content/uploads/2019/02/chocoflood-1170x585.jpg",
+        "dataset": "floodChoco2019",
+        "title": "2019 Choco Flood",
+        "type": "flood",
+        "url": "http://floodlist.com/america/colombia-floods-choco-february-2019",
+        "narr": "In a report of 25 February, the UNOCHA said that heavy rains and flooding that began on 22 February, 2019, and have so far affected over 15,000 people. The user is a response officer in the command and control center responsible for responding to the flooding as it unfolds.",
+        "num_of_tweets": 509,
+        "score": "1.0"
+      },
+      {
+        "num": "TRECIS-CTIT-H-Test-010",
+        "dataset": "albertaFloods2013",
+        "title": "2013 Alberta floods",
+        "type": "flood",
+        "url": "https://en.wikipedia.org/wiki/2013_Alberta_floods",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/East_Village_Calgary_Flood_2013.jpg",
+        "narr": "The 2013 Alberta floods was a case of catastrophic flooding in Alberta, Canada triggered by continious rainfall. The user is a response officer in the command and control center for the Alberta region of Canada. event.",
+        "num_of_tweets": 722,
+        "score": "1.0"
+      },
+      {
+        "num": "TRECIS-CTIT-H-Test-017",
+        "dataset": "chileEarthquake2014",
+        "title": "2014 Chile Earthquake",
+        "type": "earthquake",
+        "url": "https://en.wikipedia.org/wiki/2014_Iquique_earthquake",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2014_Iquique_Earthquake_ShakeMap.jpg",
+        "narr": "The 2014 Iquique earthquake struck off the coast of Chile on 1 April, with a moment magnitude of 8.2, at 20:46 local time (23:46 UTC).[7][8] The epicenter of the earthquake was approximately 95 kilometres (59 mi) northwest of Iquique. The user is a regional response officer in the Chile.",
+        "num_of_tweets": 311,
+        "score": "1.0"
+      },
+      {
+        "num": "TRECIS-CTIT-H-Test-007",
+        "dataset": "guatemalaEarthquake2012",
+        "title": "2012 Guatemala earthquake",
+        "type": "earthquake",
+        "url": "https://en.wikipedia.org/wiki/2012_Guatemala_earthquake",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/13/Relief_map_of_Guatemala.jpg",
+        "narr": "The 2012 Guatemala earthquake occurred on November 7 at 10:35:47 local time in the Pacific Ocean, 35 kilometres (22 mi) south of Champerico in the department of Retalhuleu. The user is a response officer in the command and control center responsible for responding to the earthquake as it unfolds.",
+        "num_of_tweets": 154,
+        "score": "1.0"
+      },
+      {
+        "num": "TRECIS-CTIT-H-Test-009",
+        "dataset": "philipinnesFloods2012",
+        "title": "2012 Philipinnes floods",
+        "type": "flood",
+        "url": "https://en.wikipedia.org/wiki/2012_Luzon_southwest_monsoon_floods",
+        "narr": "The 2012 Luzon southwest monsoon floods were an eight-day period of torrential rain and thunderstorms in the Philippines starting on August 1, 2012. The user is a response officer in the Philippines command and control center responsible for the event.",
+        "num_of_tweets": 437,
+        "score": "1.0"
+      },
+      {
+        "num": "TRECIS-CTIT-H-Test-011",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c6/NSW_Bushfires_Aqua_view_October_17%2C_2013.jpg",
+        "dataset": "australiaBushfire2013",
+        "title": "2013 Australia bushfire",
+        "type": "wildfire",
+        "url": "https://en.wikipedia.org/wiki/2013_New_South_Wales_bushfires",
+        "narr": "The 2013 New South Wales bushfires were a series of bushfires in Australia across the state of New South Wales primarily starting, or becoming notable, on the 13 October 2013. The user is a response officer in the command and control center for the New South Wales state in Australia.",
+        "num_of_tweets": 677,
+        "score": "1.0"
+      },
+      {
+        "num": "TRECIS-CTIT-H-Test-016",
+        "dataset": "joplinTornado2011",
+        "title": "2011 Joplin tornado",
+        "type": "typhoon",
+        "url": "https://en.wikipedia.org/wiki/2011_Joplin_tornado",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Joplin_2011_tornado_damage.jpg",
+        "narr": "The 2011 Joplin tornado was a catastrophic EF5-rated multiple-vortex tornado that struck Joplin, Missouri, late in the afternoon of Sunday, May 22, 2011. The user is a response officer in the Missouri command and control center responsible for impact to the state.",
+        "num_of_tweets": 152,
+        "score": "1.0"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,259 @@
+<topics>
+    <top>
+    <num>TRECIS-CTIT-H-Test-022</num>
+    <dataset>floodChoco2019</dataset>
+    <title>2019 Choco Flood</title>
+    <type>flood</type>
+    <url>http://floodlist.com/america/colombia-floods-choco-february-2019</url>
+    <narr> In a report of 25 February, the UNOCHA said that heavy rains and flooding 
+    that began on 22 February, 2019, and have so far affected over 15,000 people. The 
+    user is a response officer in the command and control center responsible for 
+    responding to the flooding as it unfolds.
+    </narr>
+    </top>
+    <top>
+    <num>TRECIS-CTIT-H-Test-023</num>
+    <dataset>fireAndover2019</dataset>
+    <title>2019 Andover Fire</title>
+    <type>wildfire</type>
+    <url>https://www.bbc.co.uk/news/uk-england-hampshire-47168430</url>
+    <narr> A huge fire that swept through an Ocado robotic warehouse in Hampshire. About 
+    200 firefighters and 20 fire engines were sent to the blaze, which began at the 
+    Andover facility at about 2:45am on Tuesday. The user is a response officer in the for
+    regional crisis response centre for England.
+    </narr>
+    </top>
+    <top>
+    <num>TRECIS-CTIT-H-Test-024</num>
+    <dataset>earthquakeCalifornia2014</dataset>
+    <title>2014 California Earthquake</title>
+    <type>earthquake</type>
+    <url>https://en.wikipedia.org/wiki/2014_South_Napa_earthquake</url>
+    <narr> The 2014 South Napa earthquake occurred in the North San Francisco Bay Area on 
+    August 24 at 03:20:44 Pacific Daylight Time. At 6.0 on the moment magnitude scale and 
+    with a maximum Mercalli intensity of VIII (Severe). The user is a response officer in 
+    the command and control center responsible for responding to the earthquakes as they 
+    unfold.
+    </narr>
+    </top>
+    <top>
+    <num>TRECIS-CTIT-H-Test-025</num>
+    <dataset>earthquakeBohol2013</dataset>
+    <title>2013 Bohol Earthquake</title>
+    <type>earthquake</type>
+    <url>https://en.wikipedia.org/wiki/2013_Bohol_earthquake</url>
+    <narr> The 2013 Bohol earthquake occurred on October 15 at 8:12:31 PST in Bohol, an 
+    island province located in Central Visayas, Philippines. The magnitude of the earthquake 
+    was recorded at Mw 7.2, with epicenter 6 kilometres (3.7 mi) S 24° W of Sagbayan. The 
+    user is a response officer in the command and control center responsible for responding 
+    to the earthquakes as they unfold.
+    </narr>
+    </top>
+    <top>
+    <num>TRECIS-CTIT-H-Test-026</num>
+    <dataset>hurricaneFlorence2018</dataset>
+    <title>2018 Florence Hurricane</title>
+    <type>typhoon</type>
+    <url>https://en.wikipedia.org/wiki/Hurricane_Florence</url>
+    <narr> Hurricane Florence was a powerful and long-lived Cape Verde hurricane that caused 
+    catastrophic damage in the Carolinas in September 2018, primarily as a result of freshwater 
+    flooding. The user is a response officer in the Carolinas command and control center 
+    responsible for impact to the state.
+    </narr>
+    </top>
+    <top>
+    <num>TRECIS-CTIT-H-Test-027</num>
+    <dataset>shootingDallas2017</dataset>
+    <title>2017 Dallas Shooting</title>
+    <type>shooting</type>
+    <url>https://www.nbcdfw.com/news/local/Protests-in-Dallas-Over-Alton-Sterling-Death-385784431.html</url>
+    <narr> Five officers are dead — four Dallas police officers and one Dallas Area Rapid Transit officer 
+    — in what authorities called a sniper ambush on police officers at the end of a peaceful protest 
+    against nationwide officer-involved shootings Thursday night. The user is in charge of the local police 
+    response effort.
+    </narr>
+    </top>
+    <top>
+    <num>TRECIS-CTIT-H-Test-028</num>
+    <dataset>fireYMM2016</dataset>
+    <title>2016 Fort McMurray Wildfire</title>
+    <type>wildfire</type>
+    <url>https://en.wikipedia.org/wiki/2016_Fort_McMurray_wildfire</url>
+    <narr> On May 1, 2016, a wildfire began southwest of Fort McMurray, Alberta, Canada. On May 3, it 
+    swept through the community, forcing the largest wildfire evacuation in Alberta's history, with upwards 
+    of 88,000 people forced from their homes. The user is a response officer in Canada's regional command and 
+    control center. 
+    </narr>
+    </top>
+    <top>
+    <num>TRECIS-CTIT-H-Test-007</num>
+    <dataset>guatemalaEarthquake2012</dataset>
+    <title>2012 Guatemala earthquake</title>
+    <type>earthquake</type>
+    <url>https://en.wikipedia.org/wiki/2012_Guatemala_earthquake</url>
+    <narr> The 2012 Guatemala earthquake occurred on November 7 at 10:35:47 local time
+    in the Pacific Ocean, 35 kilometres (22 mi) south of Champerico in the department 
+    of Retalhuleu. The user is a response officer in the command and control center
+    responsible for responding to the earthquake as it unfolds.
+    </narr>
+    </top>
+    <top>
+    <num>TRECIS-CTIT-H-Test-008</num>
+    <dataset>italyEarthquakes2012</dataset>
+    <title>2012 Italy earthquakes</title>
+    <type>earthquake</type>
+    <url>https://en.wikipedia.org/wiki/2012_Northern_Italy_earthquakes</url>
+    <narr> In May 2012, two major earthquakes struck Northern Italy, known as the 2012 
+    Emilia earthquakes. The user is a response officer in the command and control center
+    responsible for responding to the earthquakes as they unfold.
+    </narr>
+    </top>
+    <top>
+    <num>TRECIS-CTIT-H-Test-009</num>
+    <dataset>philipinnesFloods2012</dataset>
+    <title>2012 Philipinnes floods</title>
+    <type>flood</type>
+    <url>https://en.wikipedia.org/wiki/2012_Luzon_southwest_monsoon_floods</url>
+    <narr> The 2012 Luzon southwest monsoon floods were an eight-day period of torrential 
+    rain and thunderstorms in the Philippines starting on August 1, 2012. The user is a 
+    response officer in the Philippines command and control center responsible for the
+    event.
+    </narr>
+    </top>
+    <top>
+    <num>TRECIS-CTIT-H-Test-010</num>
+    <dataset>albertaFloods2013</dataset>
+    <title>2013 Alberta floods</title>
+    <type>flood</type>
+    <url>https://en.wikipedia.org/wiki/2013_Alberta_floods</url>
+    <narr> The 2013 Alberta floods was a case of catastrophic flooding in Alberta, Canada
+    triggered by continious rainfall. The user is a response officer in the command and control 
+    center for the Alberta region of Canada.
+    event.
+    </narr>
+    </top>
+    <top>
+    <num>TRECIS-CTIT-H-Test-011</num>
+    <dataset>australiaBushfire2013</dataset>
+    <title>2013 Australia bushfire</title>
+    <type>wildfire</type>
+    <url>https://en.wikipedia.org/wiki/2013_New_South_Wales_bushfires</url>
+    <narr> The 2013 New South Wales bushfires were a series of bushfires in Australia across 
+    the state of New South Wales primarily starting, or becoming notable, on the 13 October 2013.
+    The user is a response officer in the command and control center for the New South Wales
+    state in Australia. 
+    </narr>
+    </top>
+    <top>
+    <num>TRECIS-CTIT-H-Test-012</num>
+    <dataset>bostonBombings2013</dataset>
+    <title>2013 Boston bombings</title>
+    <type>bombing</type>
+    <url>https://en.wikipedia.org/wiki/Boston_Marathon_bombing</url>
+    <narr> During the annual Boston Marathon on April 15, 2013 homemade bombs detonated near 
+    the finish line of the race. The user is a response officer in the Massachusetts command and 
+    control center who is just recieving notifications of an explosion. 
+    </narr>
+    </top>
+    <top>
+    <num>TRECIS-CTIT-H-Test-013</num>
+    <dataset>manilaFloods2013</dataset>
+    <title>2013 Manila floods</title>
+    <type>flood</type>
+    <url>https://en.wikipedia.org/wiki/Tropical_Storm_Trami_%282013%29</url>
+    <narr> Severe Tropical Storm Trami, known in the Philippines as Tropical Storm Maring, was a 
+    tropical cyclone that brought heavy rains to Taiwan and East China during mid-August 2013. The user 
+    is a response officer responsible for Metro Manila, one of the three defined metropolitan
+    areas of the Philippines.
+    </narr>
+    </top>
+    <top>
+    <num>TRECIS-CTIT-H-Test-014</num>
+    <dataset>queenslandFloods2013</dataset>
+    <title>2013 Queensland floods</title>
+    <type>flood</type>
+    <url>https://en.wikipedia.org/wiki/Cyclone_Oswald</url>
+    <narr> Tropical Cyclone Oswald in January 2013 passed over parts of Queensland and New South Wales, 
+    Australia causing widespread impact including severe storms, flooding, and water spouts. The user 
+    is a response officer in the central Australia command and control center responsible for the event.
+    </narr>
+    </top>
+    <top>
+    <num>TRECIS-CTIT-H-Test-015</num>
+    <dataset>typhoonYolanda2013</dataset>
+    <title>2013 Typhoon Yolanda</title>
+    <type>typhoon</type>
+    <url>https://en.wikipedia.org/wiki/Typhoon_Haiyan</url>
+    <narr> Typhoon Haiyan, known as Super Typhoon Yolanda in the Philippines, was one of the strongest 
+    tropical cyclones ever recorded. On making landfall, Haiyan devastated portions of Southeast Asia, 
+    particularly the Philippines. The user is a response officer in the Philippines command and control 
+    center responsible for impact to the country.
+    </narr>
+    </top>
+    <top>
+    <num>TRECIS-CTIT-H-Test-016</num>
+    <dataset>joplinTornado2011</dataset>
+    <title>2011 Joplin tornado</title>
+    <type>typhoon</type>
+    <url>https://en.wikipedia.org/wiki/2011_Joplin_tornado</url>
+    <narr> The 2011 Joplin tornado was a catastrophic EF5-rated multiple-vortex tornado that struck Joplin, 
+    Missouri, late in the afternoon of Sunday, May 22, 2011. The user is a response officer in the Missouri 
+    command and control center responsible for impact to the state. 
+    </narr>
+    </top>
+    <top>
+    <num>TRECIS-CTIT-H-Test-017</num>
+    <dataset>chileEarthquake2014</dataset>
+    <title>2014 Chile Earthquake</title>
+    <type>earthquake</type>
+    <url>https://en.wikipedia.org/wiki/2014_Iquique_earthquake</url>
+    <narr> The 2014 Iquique earthquake struck off the coast of Chile on 1 April, with a moment magnitude of 8.2, 
+    at 20:46 local time (23:46 UTC).[7][8] The epicenter of the earthquake was approximately 95 kilometres (59 mi) 
+    northwest of Iquique. The user is a regional response officer in the Chile.
+    </narr>
+    </top>
+    <top>
+    <num>TRECIS-CTIT-H-Test-018</num>
+    <dataset>typhoonHagupit2014</dataset>
+    <title>2014 Typhoon Hagupit</title>
+    <type>typhoon</type>
+    <url>https://en.wikipedia.org/wiki/Typhoon_Hagupit_%282014%29</url>
+    <narr> Typhoon Hagupit, known in the Philippines as Typhoon Ruby, was the second most intense tropical cyclone in 
+    2014. Hagupit particularly impacted the Philippines in early December while gradually weakening. The user is a 
+    response officer in the Philippines command and control center responsible for impact to the country.
+    </narr>
+    </top>
+    <top>
+    <num>TRECIS-CTIT-H-Test-019</num>
+    <dataset>nepalEarthquake2015</dataset>
+    <title>2015 Nepal Earthquake</title>
+    <type>earthquake</type>
+    <url>https://en.wikipedia.org/wiki/April_2015_Nepal_earthquake</url>
+    <narr> The April 2015 Nepal earthquake (also known as the Gorkha earthquake) occurred at 11:56 Nepal Standard Time
+    on 25 April, with a magnitude of 7.8Mw and a maximum Mercalli Intensity of VIII (Severe). Its epicenter 
+    was east of Gorkha District at Barpak, Gorkha. The user is a response officer in the command and control center
+    responsible for responding to the earthquake as it unfolds.
+    </narr>
+    </top>
+    <top>
+    <num>TRECIS-CTIT-H-Test-020</num>
+    <dataset>flSchoolShooting2018</dataset>
+    <title>2018 FL School Shooting</title>
+    <type>shooting</type>
+    <url>https://en.wikipedia.org/wiki/Stoneman_Douglas_High_School_shooting</url>
+    <narr> On February 14, 2018, a gunman opened fire at Marjory Stoneman Douglas High School in Parkland, Florida.
+    The user is a response officer in the Florida command and control center who is just recieving reports of the shooting. 
+    </narr>
+    </top>
+    <top>
+    <num>TRECIS-CTIT-H-Test-021</num>
+    <dataset>parisAttacks2015</dataset>
+    <title>2015 Paris attacks</title>
+    <type>bombing</type>
+    <url>https://en.wikipedia.org/wiki/November_2015_Paris_attacks</url>
+    <narr> The November 2015 Paris attacks were a series of coordinated terrorist attacks that occurred on Friday,
+    13 November 2015 in Paris, France and the city's northern suburb, Saint-Denis. The user is a response officer 
+    in the France's command and control center who is just recieving reports of an explosion in Paris. 
+    </narr>
+    </top>
+</topics>

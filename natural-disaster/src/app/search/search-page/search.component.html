@@ -1,0 +1,25 @@
+<section id="top">
+  <a class="back-icon" [routerLink]="'/'" uk-icon="icon: arrow-left; ratio: 2"></a>
+  <div id="hero">
+    <h1 class="results-header">Your Search Results For</h1>
+    <h1>{{showQuery(searchQuery)}}</h1>
+  </div>
+</section>
+
+<section class="uk-animation-slide-bottom-small" id="search" *ngIf="!isLoading">
+  <app-search-bar [placeholder]="'Search Again...'" (search)="query($event)"></app-search-bar>
+</section>
+
+<section id="results">
+  <div class="spinner" *ngIf="isLoading">
+    <div class="double-bounce1"></div>
+    <div class="double-bounce2"></div>
+  </div>
+  <div class="uk-container uk-animation-fade" *ngIf="!isLoading">
+    <div uk-grid uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 50">
+      <div *ngFor="let result of results" class="uk-width-1-3@m">
+        <app-tweet-card [data]="result"></app-tweet-card>
+      </div>
+    </div>
+  </div>
+</section>

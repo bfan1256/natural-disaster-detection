@@ -1,0 +1,23 @@
+<section id="top" [ngStyle]="{'background': getImage()}">
+  <a class="back-icon" [routerLink]="'/'" uk-icon="icon: arrow-left; ratio: 2"></a>
+  <div id="hero">
+    <h1>{{event?.title}}</h1>
+    <p class="description">{{event?.narr}}</p>
+  </div>
+</section>
+
+<section id="results">
+  <div class="spinner" *ngIf="isLoading">
+    <div class="double-bounce1"></div>
+    <div class="double-bounce2"></div>
+  </div>
+  <div class="uk-container uk-animation-fade" *ngIf="!isLoading">
+    <div uk-grid uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 50">
+      <ng-container *ngFor="let result of results">
+        <div *ngIf="!checkIrrelevancy(result.label.categories)" class="uk-width-1-3@m">
+          <app-tweet-card [data]="result"></app-tweet-card>
+        </div>
+      </ng-container>
+    </div>
+  </div>
+</section>

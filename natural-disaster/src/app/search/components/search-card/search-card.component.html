@@ -1,0 +1,13 @@
+<div class="uk-card uk-card-small uk-card-default">
+  <div class="uk-card-media-top">
+      <img [src]="imageUrl" alt="{{title}} top image">
+  </div>
+  <div class="uk-card-body">
+      <div *ngIf="isRecent" class="uk-card-badge recent-study uk-label">Recent Study</div>
+      <div *ngIf="mostCount" class="uk-card-badge most-count uk-label">Largest Tweet Count</div>
+      <div *ngIf="!mostCount && !isRecent" class="uk-card-badge type uk-label">{{type}}</div>
+      <h3 class="uk-card-title">{{title}}</h3>
+      <p>We collected {{count}} natural disaster-related tweets</p>
+      <button (click)="click()" class="learn-more uk-button uk-button-primary">Learn More</button>
+  </div>
+</div>

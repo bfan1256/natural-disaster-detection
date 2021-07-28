@@ -1,0 +1,30 @@
+.result-card {
+  border-radius: 35px;
+  .uk-card-title {
+    font-size: 1.1vw;
+    max-width: 200px;
+  }
+
+  .uk-card-body p {
+    font-size: 1.3rem;
+  }
+
+  .category {
+    padding: 10px;
+    margin-right: 3px;
+    margin-bottom: 7px;
+    background-color: #746EFF;
+  }
+
+  .high {
+    background-color: rgb(255, 110, 129);
+  }
+
+  .medium {
+    background-color: #746EFF;
+  }
+
+  .low {
+    background-color: black;
+  }
+}
